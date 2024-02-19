@@ -1,4 +1,4 @@
-# Hey! I'm [James](https://shiva-blockchain-portfolio.netlify.app/)👋
+# Hey! I'm [James](https://jameswilliam2024.vercel.app/)👋
 
 New Graduate Learning & Building Full Stack Decentralized Applications
 <br>

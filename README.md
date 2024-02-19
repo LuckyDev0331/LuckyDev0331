@@ -21,7 +21,7 @@ New Graduate Learning & Building Full Stack Decentralized Applications
 
 #### WORK :briefcase:	
 - :paperclip: [My Resume](https://jameswilliam03031.tiiny.site/)
-- :email: jameswilliam@gmail.com
+- :email: jameswilliam03031@gmail.com
 
 ## Recent Projects :rocket:	
 

@@ -3,7 +3,7 @@
 New Graduate Learning & Building Full Stack Decentralized Applications
 <br>
 
-#### Check Out My [Portfolio](https://shiva-blockchain-portfolio.netlify.app/)
+#### Check Out My [Portfolio](https://jameswilliam2024.vercel.app/)
 
 #### Top Technologies :zap:
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=F0DB4F)

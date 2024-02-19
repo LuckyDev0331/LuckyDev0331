@@ -20,7 +20,7 @@ New Graduate Learning & Building Full Stack Decentralized Applications
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShanmuganathan&hide=jupyter%20notebook,html,css&layout=compact&theme=gotham)](https://github.com/ShivaShanmuganathan/github-readme-stats)
 
 #### WORK :briefcase:	
-- :paperclip: [My Resume](https://jameswilliam0331.tiiny.site/)
+- :paperclip: [My Resume](https://jameswilliam03031.tiiny.site/)
 - :email: jameswilliam@gmail.com
 
 ## Recent Projects :rocket:	

@@ -1,4 +1,4 @@
-# Hey! I'm [James](https://jameswilliam2024.vercel.app)👋
+# Hey! I'm Full Stack Developer.👋
 
 New Graduate Learning & Building Full Stack Decentralized Applications
 <br>
